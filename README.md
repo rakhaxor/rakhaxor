@@ -104,7 +104,10 @@
 
 <br/><br/>
 
-<img src="assets/stack.svg" width="90%" alt="PHP, Laravel, Node.js, React, Vue, TypeScript, JavaScript, Flutter, Dart, Kotlin, Python, Tailwind CSS, Linux, Git"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="90%" alt="PHP, Laravel, Node.js, React, Vue, TypeScript, JavaScript, Flutter, Dart, Kotlin, Python, Tailwind CSS, Linux, Git">
+</picture>
 
 </div>
 
