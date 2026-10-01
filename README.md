@@ -2,13 +2,15 @@
   <img src="assets/header.svg" width="100%" alt="Hi, I'm Rajnish. Full-stack, Flutter, Security."/>
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/typing.svg" alt="Full-stack web apps in Laravel, React and Node.js. Flutter apps for iOS and Android. Mobile app security testing. Shipping since 2016."/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/rajnish.dev-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajnish.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-rajnish/)
-[![Email](https://img.shields.io/badge/hi@rajnish.dev-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@rajnish.dev)
-
-</div>
+<p align="center">
+  <a href="https://rajnish.dev"><img src="assets/badges/portfolio.svg" alt="rajnish.dev" height="28"></a>
+  <a href="https://www.linkedin.com/in/rajnish-rajnish/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"></a>
+  <a href="mailto:hi@rajnish.dev"><img src="assets/badges/email.svg" alt="hi@rajnish.dev" height="28"></a>
+</p>
 
 ---
 
@@ -51,44 +53,99 @@
 
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 What I Do
+
+- 🏗️ Build **full-stack web apps** end to end
+- 📱 Ship **Flutter apps** for iOS and Android
+- 🖥️ Run the **Linux servers** behind them
+- 🔐 Test **mobile apps** for security holes
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 How I Work
+
+- 🤝 Client relationships that run for **years**, not projects
+- 🧱 One engineer from **first architecture call** to long after launch
+- 📐 **Clean architecture** and honest estimates
+- 🌍 **Remote**, with clients in the US and UK
+
+</td>
+</tr>
+</table>
+
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="assets/stack.svg" width="90%" alt="PHP, Laravel, Node.js, React, Vue, TypeScript, JavaScript, Flutter, Dart, Kotlin, Python, Tailwind CSS, Linux, Git"/>
-</p>
+<div align="center">
+
+### Frontend
+
+<img src="assets/badges/react.svg" alt="React" height="28"> <img src="assets/badges/vue.svg" alt="Vue.js" height="28"> <img src="assets/badges/typescript.svg" alt="TypeScript" height="28"> <img src="assets/badges/javascript.svg" alt="JavaScript" height="28"> <img src="assets/badges/tailwind.svg" alt="Tailwind CSS" height="28">
+
+### Backend
+
+<img src="assets/badges/php.svg" alt="PHP" height="28"> <img src="assets/badges/laravel.svg" alt="Laravel" height="28"> <img src="assets/badges/codeigniter.svg" alt="CodeIgniter" height="28"> <img src="assets/badges/yii2.svg" alt="Yii2" height="28"> <img src="assets/badges/nodejs.svg" alt="Node.js" height="28"> <img src="assets/badges/python.svg" alt="Python" height="28">
+
+### Mobile
+
+<img src="assets/badges/flutter.svg" alt="Flutter" height="28"> <img src="assets/badges/dart.svg" alt="Dart" height="28"> <img src="assets/badges/kotlin.svg" alt="Kotlin" height="28">
+
+### Ops & Security
+
+<img src="assets/badges/linux.svg" alt="Linux" height="28"> <img src="assets/badges/git.svg" alt="Git" height="28"> <img src="assets/badges/burpsuite.svg" alt="Burp Suite" height="28"> <img src="assets/badges/mitmproxy.svg" alt="mitmproxy" height="28"> <img src="assets/badges/frida.svg" alt="Frida" height="28">
+
+<br/><br/>
+
+<img src="assets/stack.svg" width="90%" alt="PHP, Laravel, Node.js, React, Vue, TypeScript, JavaScript, Flutter, Dart, Kotlin, Python, Tailwind CSS, Linux, Git"/>
+
+</div>
 
 ---
 
 <h2 align="center">🚀 Featured Work</h2>
 
-<div align="center">
-
 <table>
-  <tr>
-    <td>📈</td>
-    <td><b><a href="https://uptick.social">Uptick</a></b></td>
-    <td>Social investing platform. I work across the Flutter app, the React desktop app and the Node.js backend.</td>
-  </tr>
-  <tr>
-    <td>🧭</td>
-    <td><b><a href="https://russellcoaching.com">Russell Coaching</a></b></td>
-    <td>Site and CMS for a US coaching practice, designed and built end to end in Laravel.</td>
-  </tr>
-  <tr>
-    <td>🎁</td>
-    <td><b><a href="https://perkzilla.com">PerkZilla</a></b></td>
-    <td>Growth-marketing SaaS for referrals, contests and waitlists. Full-stack work.</td>
-  </tr>
-  <tr>
-    <td>🏡</td>
-    <td><b><a href="https://hellovyta.com">Vyta</a></b></td>
-    <td>In-home care and rides for older adults, built in Flutter and Laravel.</td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 📈 [Uptick](https://uptick.social)
+> Social investing platform for retail traders. I work across the Flutter app, the React desktop app and the Node.js backend.
+
+`Flutter` `React` `Node.js`
+
+<br/>
+
+### 🎁 [PerkZilla](https://perkzilla.com)
+> Growth-marketing SaaS for referrals, contests and waitlists. Full-stack work on the campaign builder, dashboards and analytics.
+
+`SaaS` `Full-stack`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [Russell Coaching](https://russellcoaching.com)
+> Website for a US coaching practice, designed and built end to end, with a CMS the team runs without a developer.
+
+`Laravel` `Tailwind CSS` `Filament`
+
+<br/>
+
+### 🏡 [Vyta](https://hellovyta.com)
+> In-home care and rides for older adults. Booking, scheduling, estimates and reminders across web and mobile.
+
+`Flutter` `Laravel`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,6 +160,8 @@
 
 ---
 
+<h2 align="center">📊 GitHub Activity</h2>
+
 <div align="center">
 
 <picture>
@@ -113,6 +172,18 @@
 </div>
 
 ---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+Email is the fastest way to reach me.
+</p>
+
+<p align="center">
+  <a href="https://rajnish.dev"><img src="assets/badges/portfolio.svg" alt="rajnish.dev" height="28"></a>
+  <a href="https://www.linkedin.com/in/rajnish-rajnish/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"></a>
+  <a href="mailto:hi@rajnish.dev"><img src="assets/badges/email.svg" alt="hi@rajnish.dev" height="28"></a>
+</p>
 
 <h3 align="center">🚀 Building, shipping, and breaking things on purpose.</h3>
 
