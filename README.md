@@ -55,9 +55,10 @@
 
 <br/>
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🎯 What I Do
 
@@ -67,7 +68,7 @@
 - 🔐 Test **mobile apps** for security holes
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🧭 How I Work
 
@@ -79,6 +80,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
