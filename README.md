@@ -96,8 +96,8 @@
 
 <div align="center">
 
-<a href="https://github.com/rakhaxor/burp-redirect"><img src="assets/pin-burp-redirect-dark.svg#gh-dark-mode-only" alt="burp-redirect: Android app that redirects a rooted device's traffic to Burp Suite" height="130"><img src="assets/pin-burp-redirect-light.svg#gh-light-mode-only" alt="burp-redirect: Android app that redirects a rooted device's traffic to Burp Suite" height="130"></a>
-<a href="https://github.com/rakhaxor/depconf"><img src="assets/pin-depconf-dark.svg#gh-dark-mode-only" alt="depconf: dependency confusion reconnaissance CLI" height="130"><img src="assets/pin-depconf-light.svg#gh-light-mode-only" alt="depconf: dependency confusion reconnaissance CLI" height="130"></a>
+<a href="https://github.com/rakhaxor/burp-redirect"><img src="assets/pin-burp-redirect.svg" alt="burp-redirect: Android app that redirects a rooted device's traffic to Burp Suite" height="130"></a>
+<a href="https://github.com/rakhaxor/depconf"><img src="assets/pin-depconf.svg" alt="depconf: dependency confusion reconnaissance CLI" height="130"></a>
 
 </div>
 
