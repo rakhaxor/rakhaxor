@@ -18,7 +18,7 @@
 
 <p align="center">
 💡 Senior <b>full-stack</b> and <b>Flutter</b> engineer, shipping web and mobile products since 2016<br><br>
-✨ I run <a href="https://thecodecrunch.com">The Code Crunch</a>, a small studio building for clients in the US and UK
+✨ I run <a href="https://thecodecrunch.com">The Code Crunch</a>, a small studio where I lead the engineering on every project
 </p>
 
 <div align="center">
@@ -75,7 +75,7 @@
 - 🤝 Client relationships that run for **years**, not projects
 - 🧱 One engineer from **first architecture call** to long after launch
 - 📐 **Clean architecture** and honest estimates
-- 🌍 **Remote**, with clients in the US and UK
+- 🌍 **Remote** since 2016
 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 <td width="50%" valign="top">
 
 ### 🧭 [Russell Coaching](https://russellcoaching.com)
-> Website for a US coaching practice, designed and built end to end, with a CMS the team runs without a developer.
+> Website for a coaching practice, designed and built end to end, with a CMS the team runs without a developer.
 
 `Laravel` `Tailwind CSS` `Filament`
 
